@@ -1,9 +1,10 @@
-## GET MORE EXPLANATION ON THIS PLEASE!!!!!!
+## get ignore is essentially just ignoring things from modules brought into your virtual environment
+## It is needed on all virtual environments
+
+## ONLY OPEN AT PROJECT FOLDER LEVEL
 
 ## the slash indicates that it will not include the files within the virtual environment
 ## no reason to track the virtual environment or change it
-
-## ONLY OPEN AT PROJECT FOLDER LEVEL
 
 ## going to the source icon and clicking on the .gitignore will show two sides
 ##    Left side - what was in the repository when closed
