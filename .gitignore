@@ -1,1 +1,13 @@
-.venv/
+## GET MORE EXPLANATION ON THIS PLEASE!!!!!!
+
+## the slash indicates that it will not include the files within the virtual environment
+## no reason to track the virtual environment or change it
+
+## ONLY OPEN AT PROJECT FOLDER LEVEL
+
+## going to the source icon and clicking on the .gitignore will show two sides
+##    Left side - what was in the repository when closed
+##    Right side - what you are updating it to
+
+myvenv/                                   
+
